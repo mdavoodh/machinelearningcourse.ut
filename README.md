@@ -1,2 +1,1 @@
-# machinelearningcourse.ut
-Machine Learning Course
+# Machine Learning Course
